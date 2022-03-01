@@ -9,6 +9,7 @@ These all act like a regular space. There are different ones depending on which 
 - `[sp]`
 - `[space]`
 - `[x]`
+
 Also, a tab BBCode is included which inserts 4 spaces.
 - `[tab]`
 

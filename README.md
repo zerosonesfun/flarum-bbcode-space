@@ -6,11 +6,11 @@ A [Flarum](http://flarum.org) extension. Adds a space BBCode. Acts like HTML&#39
 
 ## BBCodes added
 These all act like a regular space. There are different ones depending on which you prefer and want to get used to using.
-`[sp]`
-`[space]`
-`[x]`
+- `[sp]`
+- `[space]`
+- `[x]`
 Also, a tab BBCode is included which inserts 4 spaces.
-`[tab]`
+- `[tab]`
 
 ## Install
 

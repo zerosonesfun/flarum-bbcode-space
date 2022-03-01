@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/zerosonesfun/flarum-bbcode-space.svg)](https://packagist.org/packages/zerosonesfun/flarum-bbcode-space) [![Total Downloads](https://img.shields.io/packagist/dt/zerosonesfun/flarum-bbcode-space.svg)](https://packagist.org/packages/zerosonesfun/flarum-bbcode-space)
 
-A [Flarum](http://flarum.org) extension. Adds a space BBCode. Acts like HTML&#39;s non-breaking space: &amp;nbsp;
+A [Flarum](http://flarum.org) extension. Adds a space BBCode. Acts like HTML's non-breaking space: `&nbsp;`
 
 ## BBCodes added
 These all act like a regular space. There are different ones depending on which you prefer and want to get used to using.

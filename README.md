@@ -4,7 +4,15 @@
 
 A [Flarum](http://flarum.org) extension. Adds a space BBCode. Acts like HTML&#39;s non-breaking space: &amp;nbsp;
 
-## Installation
+## BBCodes added
+These all act like a regular space. There are different ones depending on which you prefer and want to get used to using.
+`[sp]`
+`[space]`
+`[x]`
+Also, a tab BBCode is included which inserts 4 spaces.
+`[tab]`
+
+## Install
 
 Install with composer:
 
@@ -12,7 +20,7 @@ Install with composer:
 composer require zerosonesfun/flarum-bbcode-space:"*"
 ```
 
-## Updating
+## Update
 
 ```sh
 composer update zerosonesfun/flarum-bbcode-space:"*"
@@ -20,8 +28,15 @@ php flarum migrate
 php flarum cache:clear
 ```
 
+## Uninstall
+
+```sh
+composer remove zerosonesfun/flarum-bbcode-space
+```
+
 ## Links
 
 - [Packagist](https://packagist.org/packages/zerosonesfun/flarum-bbcode-space)
 - [GitHub](https://github.com/zerosonesfun/flarum-bbcode-space)
 - [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)
+- [Donate](https://www.wilcosky.com)
